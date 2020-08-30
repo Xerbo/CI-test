@@ -10,7 +10,7 @@ int warning_function(){
 int main(){
 	printf("Hello World!\n");
 
-	warning_function();
+	warning_function()
 
 	return 0;
 }
